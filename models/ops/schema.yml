@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: landing
+    schema: landing
+    database: dbthouse
+    tables:
+      - name: flows
+      - name: deployments
+      - name: flow_runs
+      - name: events

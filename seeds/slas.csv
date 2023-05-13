@@ -1,0 +1,5 @@
+flow_name,sla
+Load NRK, 0.95
+Load Aftenposten, 0.95
+Load DN, 0.95
+Save ER, 0.95
